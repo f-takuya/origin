@@ -1,2 +1,6 @@
 test‚¾‚æ
+<<<<<<< HEAD
 2kaime
+=======
+branch
+
